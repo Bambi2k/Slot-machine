@@ -1,7 +1,7 @@
 import random as rand
 import random
 
-
+# hej
 SYMBOLS = ["💛", "💥", "❌", "⚜", "🟢", "💲"]
 
 
